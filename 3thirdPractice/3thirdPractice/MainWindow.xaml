@@ -1,0 +1,79 @@
+﻿<Window
+    x:Class="_3thirdPractice.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:_3thirdPractice"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Pomodoro Timer"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid Background="Orange">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+         
+            <RowDefinition Height="*"/>
+          
+            <RowDefinition Height="Auto"/>
+        
+        </Grid.RowDefinitions>
+
+     
+        <StackPanel Grid.Row="0" 
+                   Orientation="Horizontal" 
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Margin="0,20">
+            <Button
+                x:Name="StartPauseButton"
+                Width="150"
+                Height="60"
+                Margin="10"
+                Background="DarkOrange"
+                BorderThickness="0"
+                Click="StartPauseButton_Click"
+                Content="Старт"
+                FontSize="20"/>
+
+            <Button
+                x:Name="ResetButton"
+                Width="150"
+                Height="60"
+                Margin="10"
+                Background="DarkOrange"
+                BorderThickness="0"
+                Click="ResetButton_Click"
+                Content="Сброс"
+                FontSize="20"/>
+        </StackPanel>
+
+    
+        <TextBlock
+            Grid.Row="1"
+            x:Name="CyclesCountText"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontSize="24"
+            Text="Количество завершённых дел"/>
+
+
+        <StackPanel Grid.Row="2" 
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Margin="0,0,0,40">
+            <TextBlock
+                x:Name="StatusText"
+                Margin="0,0,0,10"
+                HorizontalAlignment="Center"
+                FontSize="30"
+                Text="Работай"/>
+
+            <TextBlock
+                x:Name="TimerText"
+                HorizontalAlignment="Center"
+                FontSize="80"
+                Text="Время"/>
+        </StackPanel>
+    </Grid>
+</Window>

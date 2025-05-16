@@ -1,0 +1,6 @@
+C:\Users\Камиль\source\repos\WPF_OAIP\secondPraktika\secondPraktika\obj\Debug\secondPraktika.csproj.AssemblyReference.cache
+C:\Users\Камиль\source\repos\WPF_OAIP\secondPraktika\secondPraktika\obj\Debug\MainWindow.g.cs
+C:\Users\Камиль\source\repos\WPF_OAIP\secondPraktika\secondPraktika\obj\Debug\Pages\Calendar.g.cs
+C:\Users\Камиль\source\repos\WPF_OAIP\secondPraktika\secondPraktika\obj\Debug\App.g.cs
+C:\Users\Камиль\source\repos\WPF_OAIP\secondPraktika\secondPraktika\obj\Debug\secondPraktika_MarkupCompile.cache
+C:\Users\Камиль\source\repos\WPF_OAIP\secondPraktika\secondPraktika\obj\Debug\secondPraktika_MarkupCompile.lref
