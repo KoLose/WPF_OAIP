@@ -1,0 +1,15 @@
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\bin\Debug\4fourthPractice.exe.config
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\bin\Debug\4fourthPractice.exe
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\bin\Debug\4fourthPractice.pdb
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice.csproj.AssemblyReference.cache
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\MainWindow.g.cs
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\App.g.cs
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice_MarkupCompile.cache
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice_MarkupCompile.lref
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\MainWindow.baml
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice.g.resources
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\_4fourthPractice.Properties.Resources.resources
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice.csproj.GenerateResource.cache
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice.exe
+C:\Users\Камиль\source\repos\WPF_OAIP\4fourthPractice\4fourthPractice\obj\Debug\4fourthPractice.pdb
